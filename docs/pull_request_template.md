@@ -1,10 +1,23 @@
 ## Describe your changes
 
-## Issue ticket number and link
-
-## Checklist before requesting a review
-- [ ] I have performed a self-review of my code
-- [ ] If it is a core feature, I have added thorough tests.
+## 🏎 Checklist before requesting a review
+- [ ] bug report
+- [ ] feature request
 - [ ] Do we need to implement analytics?
-- [ ] Will this be part of a product update? If yes, please write one phrase about this update.
+- [ ] Tests for the changes have been added (for bug fixes/features)
+- [ ] Docs have been added / updated (for bug fixes / features)
+
+### 🛠 Changes being made
+
+
+### ✨ Services 
+
+
+### 🧠 Why did you choose to make these changes?
+
+
+### 🧪 Curl 
+
+
+
 

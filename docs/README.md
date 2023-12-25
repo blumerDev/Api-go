@@ -31,8 +31,6 @@ The upcoming architecture will have four main parts:
 These adjustments will preserve the strengths of clean/onion architecture, such as user-friendly testing, adaptability, and isolation. Testing becomes simpler, and the system easily adapts to changes, all while keeping distinct components separate for smoother maintenance.
 ![Alt text](img/image-1.png)
 
-## 
-
 ## Endpoints
 
 ### GET /endpoint

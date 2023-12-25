@@ -15,7 +15,6 @@ Clean Architecture is an architectural pattern that provides a structured way to
 - Interfaces (Adapters): Connect the internal parts of the system to the external world, such as databases, frameworks, or user interfaces.
 - Frameworks and Drivers: The outermost layer that deals with external details like databases, web frameworks, or UI.
 
-![Alt Text](img/dotnet-onion-architecture.png)
 
 ### Architecture changes
 
@@ -29,7 +28,6 @@ The upcoming architecture will have four main parts:
 - Infrastructure: This includes the controller and interfaces, streamlining database connectivity and other essential functions crucial for achieving the API's goals.
 
 These adjustments will preserve the strengths of clean/onion architecture, such as user-friendly testing, adaptability, and isolation. Testing becomes simpler, and the system easily adapts to changes, all while keeping distinct components separate for smoother maintenance.
-![Alt text](img/image-1.png)
 
 ## Endpoints
 
